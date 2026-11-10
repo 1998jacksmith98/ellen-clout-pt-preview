@@ -1,0 +1,25 @@
+Font guesses only — no brand type sheet was found.
+
+Logo / wordmark:
+  "ELLEN CLOUT" is a widely tracked, geometric caps sans
+  (close to Montserrat, Geist, or similar), letter-spaced.
+  The ring reads "PERSONAL TRAINER" above and "@FITWITHELLS" below,
+  in a smaller, lighter caps sans, set on a curve around a line-drawn
+  dumbbell and olive sprig.
+
+On-feed graphics:
+  "FITWITHELLS SERVICES" and the service names are a bold, tight
+  geometric caps sans (Montserrat / Gotham / Poppins area).
+  "MEET YOUR COACH" / "MY JOURNEY" uses a serif for the small kicker
+  and a sage display serif or soft serif for the year titles
+  (something in the Playfair / Cormorant / EB Garamond family).
+  Body captions on the journey carousel look like a simple typewriter
+  or lightly rounded serif (Courier-ish / special elite).
+  Professional portraits (@robpowercommercial) use a light white
+  sans for the short overlay lines.
+
+Body copy on a site:
+  A clean sans (the same family as the wordmark, or Inter / Source Sans)
+  will sit comfortably with the logo and the studio portraits.
+  A restrained serif can be used for headings if you want to echo
+  "MY JOURNEY".

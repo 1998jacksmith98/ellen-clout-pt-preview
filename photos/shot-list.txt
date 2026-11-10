@@ -1,0 +1,202 @@
+# Ellen Clout / FitWithElls photo + video shot list
+# Collected 10 Nov 2026, anonymous (no Instagram login).
+# Dimensions are of the file saved here, as Instagram/Wix served it (not square thumbs
+# unless the original post was square).
+# Still carousels: Instagram public media/?size=l (4:5 or 1:1 as posted).
+# A few training/action/gym files are official covers of short videos in a carousel
+# (often 720px wide) — noted below. Prefer the 1080 stills where a still exists.
+
+# --- HERO / ABOUT (professional shoot, photography credit @robpowercommercial, 2 Aug 2026) ---
+
+photos/hero-01.jpg  1080x1350  4:5 still
+  Source: https://www.instagram.com/p/Dbi9agTDO5B/  child Dbi8K4eM9be  (2 Aug 2026)
+  What: Professional portrait of Ellen in a black PT shirt, leaning on a squat rack,
+  looking at the camera. Short white overlay: “Expectations I should meet as your coach”.
+  Suggested use: Hero / about. Best formal portrait. Some text at the lower third.
+  Notes: From her “I always want my clients to feel comfortable…” carousel.
+
+photos/about-me-01.jpg  1080x1080  square (original post is square)
+  Source: https://www.instagram.com/p/Dbv9yK-DHgk/  child Dbv9kfuse95  (7 Aug 2026)
+  What: Ellen smiling, looking up, in the black PT shirt beside a squat rack. No text.
+  Suggested use: About-me / hero alternative. Cleanest no-text portrait in the pack.
+  Notes: From her “Life lately” carousel.
+
+photos/about-me-02.jpg  1080x1350  4:5 still
+  Source: https://www.instagram.com/p/Dbi9agTDO5B/  child Dbi8K6ksgDT  (2 Aug 2026)
+  What: Close side-on laughing portrait, hair in a claw clip, gym behind her.
+  Overlay: “Happiness goes without saying… I want my energy to motivate you.”
+  Suggested use: About-me / personality. Some text.
+  Notes: Same @robpowercommercial shoot as hero-01.
+
+# --- TRAINING ---
+
+photos/training-01.jpg  1080x1350  4:5 still
+  Source: https://www.instagram.com/p/Dbi9agTDO5B/  child Dbi8LAIs4lk  (2 Aug 2026)
+  What: Ellen (black PT shirt) coaching a client who is mid deadlift / hip hinge
+  at a bumper-plated bar. Overlay about being evidence- and form-based.
+  Suggested use: Training / “how I coach”. Pro photo, some text, client in shot
+  (face not really shown). Get a nod if used large.
+
+photos/training-02.jpg  1080x1440  4:5 still
+  Source: https://www.instagram.com/p/DetS93sjALU/  child DetSwB7MQrf  (20 Oct 2026)
+  What: Outdoor session at LAPT: Ellen with two clients on the patio, sunlit.
+  Overlay: “CLIENT HIGHLIGHTS”.
+  Suggested use: Training / community. Some text. Same file also in comparisons/.
+  Notes: Opening still of the client-progress carousel.
+
+photos/training-03.jpg  720x720  square (original video frame is square)
+  Source: https://www.instagram.com/p/Dbv9yK-DHgk/  child Dbv9kYnDGn1  (7 Aug 2026)
+  What: Outdoor coaching at LAPT’s front terrace: Ellen in black, two male clients,
+  a whiteboard on the wall.
+  Suggested use: Training / outdoor class. This is a cover of a short video in the
+  “Life lately” carousel, hence 720px.
+  Notes: No heavy typography.
+
+# --- ACTION (covers from the 20 Oct 2026 progress carousel; mostly 720px video covers with captions) ---
+
+photos/action-01.jpg  720x958
+  Source: https://www.instagram.com/p/DetS93sjALU/  child DetSwwvDEP0
+  What: Client (Matt) deadlifting, “130KG DEADLIFT” overlay. Ellen watching.
+  Suggested use: Action / strength. Named in her caption as a 130kg PB.
+
+photos/action-02.jpg  720x958
+  Source: https://www.instagram.com/p/DetS93sjALU/  child DetSwkpDKb4
+  What: Client doing a confident assisted pull-up, “CONFIDENT ASSISTED PULL UPS” overlay.
+  Suggested use: Action / calisthenics / women’s strength.
+
+photos/action-03.jpg  720x960
+  Source: https://www.instagram.com/p/DetS93sjALU/  child DetSxHzDCjB
+  What: Client (Emily) doing a kneeling / scaled push-up on a plyo box.
+  Overlay: “PROPER CORE ENGAGEMENT & SCALED PUSHUPS”.
+  Suggested use: Action / technique.
+
+photos/action-04.jpg  720x960
+  Source: https://www.instagram.com/p/DetS93sjALU/  child DetSwL0DMWT
+  What: Older client (Graham) mid sled / prowler effort, plates stacked.
+  Overlay: “160KG SLED PUSH”. Same file also in comparisons/.
+  Suggested use: Action / “strength has no age limit” (her words).
+
+# --- LIFESTYLE (5 Nov 2026 “highlight reel” + 7 Aug 2026 “Life lately”; originals are square) ---
+
+photos/lifestyle-01.jpg  1080x1080
+  Source: https://www.instagram.com/p/DfXf4yYDEFx/  child DfXe30nMvQk
+  What: Ellen in a short white tennis dress in a small home gym, squat rack behind her.
+  Suggested use: Lifestyle / at-home training. Mildly short hem — fine for lifestyle,
+  maybe not a huge homepage hero.
+  Notes: No text.
+
+photos/lifestyle-02.jpg  1080x1080
+  Source: https://www.instagram.com/p/DfXf4yYDEFx/  child DfXe4ObsUR0
+  What: Rainbow over a suburban street after rain. No people, no text.
+  Suggested use: Lifestyle / tone (her caption is about finding a rainbow on a Tuesday walk).
+
+photos/lifestyle-03.jpg  1080x1080
+  Source: https://www.instagram.com/p/DfXf4yYDEFx/  child DfXfaWvs2XX
+  What: Hand holding a colourful salad / grain bowl. No text.
+  Suggested use: Lifestyle / nutrition tone.
+
+photos/lifestyle-04.jpg  1080x1080
+  Source: https://www.instagram.com/p/DfXf4yYDEFx/  child DfXfaijs71Q
+  What: Sunset over rooftops, shot from a window. No text.
+  Suggested use: Lifestyle.
+
+photos/lifestyle-05.jpg  1080x1080
+  Source: https://www.instagram.com/p/Dbv9yK-DHgk/  child Dbv9j6bs4E8
+  What: Breakfast bowl among potted flowers in a garden. No text.
+  Suggested use: Lifestyle.
+
+photos/lifestyle-06.jpg  1080x1080
+  Source: https://www.instagram.com/p/Dbv9yK-DHgk/  child Dbv9kcxM4Ii
+  What: Coastal park / pines and sea, blue sky. No text.
+  Suggested use: Lifestyle / Kent walks.
+
+photos/lifestyle-07.jpg  1080x1080
+  Source: https://www.instagram.com/p/DfXf4yYDEFx/  child DfXfaqcMZe2
+  What: Ellen and her boyfriend, mirror selfie, smiling. No text.
+  Suggested use: Lifestyle / personal. Third party in the shot — get a nod.
+
+# --- GYM / LOCATION (LAPT Studios, Gillingham / Rainham, Kent) ---
+
+photos/gym-01.jpg  1080x1080
+  Source: https://www.instagram.com/p/DfXf4yYDEFx/  child DfXfbDAMlpM
+  What: “lapt studios” wall lettering and framed trainer photos. No text overlay.
+  Suggested use: Gym / location / studio branding.
+
+photos/gym-02.jpg  720x960
+  Source: https://www.instagram.com/p/De6aM8iDPnx/  child De6aJOLDJrf  (25 Oct 2026)
+  What: Shopfront: “LAPT / LUKE ARMOUR PERSONAL TRAINING” in raised letters,
+  glass door, evening light. Caption on the post called this a studio walkthrough.
+  Suggested use: Gym / find us. This is a cover of a short walkthrough video, hence 720px.
+
+photos/gym-03.jpg  1080x1080
+  Source: https://www.instagram.com/p/DfXf4yYDEFx/  child DfXfbBJMyjx
+  What: Inside the studio: dark room, turf or mats, large screens along one wall.
+  Suggested use: Gym / facilities. No text.
+
+# --- SERVICES GRAPHIC ---
+
+photos/services-01.jpg  1014x1350
+  Source: https://www.instagram.com/p/De6aM8iDPnx/  child De6aIMnsxQG
+  What: “FITWITHELLS SERVICES” list over a portrait of Ellen:
+  Private coaching (private high-end studio, free consultation);
+  Bespoke programming (personalised workouts, adaptions for injury, age & ability);
+  1-1, group or family coaching; Children’s coaching; WhatsApp support.
+  Suggested use: Services page / reference for copy (transcribe rather than
+  stretching this graphic huge). Heavy typography.
+
+# --- COMPARISONS / CLIENT PROGRESS (see also comparisons/README.md) ---
+
+comparisons/client-highlights-outdoor.jpg  — same file as photos/training-02.jpg
+comparisons/graham-160kg-sled-push.jpg     — same file as photos/action-04.jpg
+comparisons/adam-weighted-pullups.jpg  720x958
+  Source: https://www.instagram.com/p/DetS93sjALU/  child DetSw7WDEe-
+  What: Adam on a pull-up bar with a weight belt (her caption: from struggling
+  with pull-ups to muscle-ups without a band). Overlay typography.
+comparisons/justine-sport-specific.jpg  720x958
+  Source: https://www.instagram.com/p/DetS93sjALU/  child DetSy6ZDGYi
+  What: Client (Justine) mid strap / plyometric work. Overlay: “SPORT SPECIFIC
+  STRENGTH TRAINING”.
+
+# --- LOGO ---
+
+brand/logo-wide-og.png  1200x630  PNG  — social-share version from her Wix site
+  (https://www.fitwithells.com, last archived April 2025). Lots of white margin.
+brand/logo.png  562x318  PNG  — tight crop of the same file (highest-resolution
+  logo we could find: “ELLEN CLOUT” + “PERSONAL TRAINER” / “@FITWITHELLS”
+  around a line-drawn dumbbell and olive sprig). Ask her for the original
+  vector / high-res artwork.
+
+# --- VIDEO ---
+
+videos/training-session.mp4  720x1280  H.264 + AAC, 34.1s, 30fps, stereo 44.1kHz
+  Source: https://www.instagram.com/reel/DbnEDnfMYq6/  (4 Aug 2026)
+  Caption: “A class for everyone” — mixed weights and cardio, location @laptstudios,
+  time TBC / most likely 9am, weather dependent.
+  What: Outdoor training session on the LAPT terrace: shopfront, clients on a bench
+  and under a pull-up frame, Ellen coaching. THIS IS HER COACHING CLIENTS, not
+  just her own workout.
+  On-screen text: moderate — short captions through the clip, plus a “comment
+  ‘class’ and I’ll send you the details” end card.
+  Audio: present (AAC). Likely music rather than a voiceover.
+  Notes: Instagram’s playable H.264 progressive file (720p), copied as-is, not
+  re-encoded. A sharper 1080p copy exists only as VP9 DASH and was skipped
+  for iPhone compatibility.
+
+# --- NOT USED (kept out on purpose) ---
+- Wouldham All Saints school visit (DeMaFJcDaq_): classroom photos of Year 5/6
+  children. Mentioned in the brief, not copied into this pack.
+- Sports-bra / romper gym selfies and a changing-room swimsuit frame from
+  reel DbVXZ8VM_72.
+- “Get to know me” journey graphics (DQ7DY0QjIPT): useful story, heavy
+  typography, not clean site photos. Captions/transcribed story are in
+  BRIEF.md and source/captions.txt.
+- Old Wix stock (Trainerize app shots) and a The Gym Group interior
+  (filename points at Bexleyheath) from the 2023–25 website — not her
+  current LAPT studio.
+- Instagram profile avatar could not be fetched anonymously; about-me-01
+  is a better portrait anyway.
+
+# Latest 12 shortcodes returned by the public viewer (of 229 posts on the account)
+DfXf4yYDEFx  DetS93sjALU  De6aM8iDPnx  DeMaFJcDaq_  DQ7DY0QjIPT
+Dbv9yK-DHgk  Dbi9agTDO5B
+Reels: Db_DgGQgvDV  DcMAvPqM3Xn  DbnEDnfMYq6  DcBA-LmMigw  DbVXZ8VM_72

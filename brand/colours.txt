@@ -1,0 +1,21 @@
+Ellen Clout / FitWithElls brand colours — sampled from her logo
+(olive/sage leaves, charcoal wordmark, white ground). Confirm with Ellen
+if she has a formal palette.
+
+From the logo (brand/logo.png):
+  Sage green      #70A080    rgb(112,160,128)   — mid tone of the olive leaves
+  Deep sage       #287040    rgb(40,112,64)     — darker leaf / line work
+  Soft sage       #C0D8C8    rgb(192,216,200)   — light leaf highlight
+  Charcoal        #202020    rgb(32,32,32)      — "ELLEN CLOUT" wordmark and dumbbell
+  Mid grey        #484848    rgb(72,72,72)      — secondary type / ring
+  White           #FFFFFF    rgb(255,255,255)   — background
+
+Optional (from her blush-free, clean feed and black PT shirt portraits):
+  Off-white       #F6F5F2    rgb(246,245,242)
+  Soft black      #111111    rgb(17,17,17)
+
+Suggested site direction: white + charcoal + sage green. Quiet and editorial,
+not neon fitness. The logo already does this well.
+
+Do NOT treat The Gym Group blue, LAPT's shopfront navy/grey, or Trainerize
+orange as her brand colours — those belong to the venues / apps.
