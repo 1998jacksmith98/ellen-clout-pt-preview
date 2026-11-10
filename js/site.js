@@ -69,16 +69,6 @@ if (ENQUIRE) {
     link.removeAttribute("rel");
   });
 }
-  </footer>
-`;
-
-if (ENQUIRE) {
-  document.querySelectorAll("[data-enquire]").forEach((link) => {
-    link.href = ENQUIRE;
-    link.removeAttribute("target");
-    link.removeAttribute("rel");
-  });
-}
 
 const btn = document.querySelector(".menu-btn");
 const nav = document.querySelector(".mobile-nav");
