@@ -1,5 +1,7 @@
 # Ellen Clout / FitWithElls photo + video shot list
 # Collected 10 Nov 2026, anonymous (no Instagram login).
+# 12 Nov 2026: added hero-02 and about-me-03, the last two stills of
+# https://www.instagram.com/p/Dbv9yK-DHgk/ (11 slides in the carousel, not 10).
 # Dimensions are of the file saved here, as Instagram/Wix served it (not square thumbs
 # unless the original post was square).
 # Still carousels: Instagram public media/?size=l (4:5 or 1:1 as posted).
@@ -15,6 +17,14 @@ photos/hero-01.jpg  1080x1350  4:5 still
   Suggested use: Hero / about. Best formal portrait. Some text at the lower third.
   Notes: From her “I always want my clients to feel comfortable…” carousel.
 
+photos/hero-02.jpg  1080x1080  square (original post is square)
+  Source: https://www.instagram.com/p/Dbv9yK-DHgk/  child Dbv9kfuse95  (7 Aug 2026)  — carousel slide 10 of 11
+  What: Ellen laughing, eyes closed, looking up, in a black PT shirt beside a squat rack.
+  Text overlay: none. The only lettering is “PT” printed on her shirt.
+  Suggested use: Hero (text-free alternative to hero-01). Same photograph as about-me-01.jpg,
+  added under this filename on 12 Nov 2026 so the site can use a hero without overlay text.
+  Notes: Second-last still in the “Life lately” carousel. Original is square 1080×1080.
+
 photos/about-me-01.jpg  1080x1080  square (original post is square)
   Source: https://www.instagram.com/p/Dbv9yK-DHgk/  child Dbv9kfuse95  (7 Aug 2026)
   What: Ellen smiling, looking up, in the black PT shirt beside a squat rack. No text.
@@ -27,6 +37,15 @@ photos/about-me-02.jpg  1080x1350  4:5 still
   Overlay: “Happiness goes without saying… I want my energy to motivate you.”
   Suggested use: About-me / personality. Some text.
   Notes: Same @robpowercommercial shoot as hero-01.
+
+photos/about-me-03.jpg  1080x1080  square (original post is square)
+  Source: https://www.instagram.com/p/Dbv9yK-DHgk/  child Dbv9kjWMggM  (7 Aug 2026)  — carousel slide 11 of 11
+  What: Ellen kneeling in the gym, smiling, holding a 10kg “EXTREME FITNESS” bumper plate.
+  She is in a sports bra and black trousers; a person is visible from behind in the mirror.
+  Text overlay: none. “EXTREME FITNESS” / “10 KG” is printed on the plate, not an Instagram overlay.
+  Suggested use: About-me / action portrait. A little more revealing than the PT-shirt shots —
+  check before using large as a homepage hero.
+  Notes: Last still in the “Life lately” carousel. Original is square 1080×1080. Added 12 Nov 2026.
 
 # --- TRAINING ---
 

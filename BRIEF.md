@@ -2,6 +2,8 @@
 
 Instagram: [@fitwithells](https://www.instagram.com/fitwithells/) · collected 10 Nov 2026 (anonymous, no Instagram login)
 
+**12 Nov 2026 update:** Added the last two stills from [this “Life lately” carousel](https://www.instagram.com/p/Dbv9yK-DHgk/) (the post has **11 slides**, not 10 — Jack’s link opened slide 10). `photos/hero-02.jpg` is slide 10, a clean no-text portrait in her PT shirt. It is the same photo already in the pack as `about-me-01.jpg`, saved again under a hero filename because `hero-01` has a text overlay. `photos/about-me-03.jpg` is slide 11: Ellen kneeling with a 10kg plate, no Instagram text overlay (the wording is printed on the plate itself). That one is a sports-bra portrait, so check before using it large as a hero.
+
 ## Short write-up — what I found / didn't find
 
 Ellen Clout trades as **FitWithElls** (display name on Instagram: **Ellen | PT & ONLINE COACH**). She is a child and adult personal trainer, now based at **LAPT Studios** (Luke Armour Personal Training) in Gillingham / Rainham, Kent. She also offers online coaching, family and children’s sessions, and WhatsApp support. The account is healthy: **229 posts, 1,243 followers, 1,082 following**, public.
